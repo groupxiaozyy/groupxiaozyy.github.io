@@ -20,7 +20,7 @@ More publications are on the way.... :horse_racing:
 
 **Journal Papers** 
 
-1. Edge-assisted Multi-vehicle CooperativePerception: an Approach Based on RelativePose Estimation
+1. Edge-assisted Multi-vehicle CooperativePerception: an Approach Based on Relative Pose Estimation
 
    <font face="Times New Roman">
    
@@ -67,7 +67,7 @@ Competition
 
 [Huawei Code Craft Contest 2023](https://www.huaweicloud.com/special/codecraft2023.html) :Second Prize
 
-[PhiladelphiaCCF Computational Economics Competition 2023](http://www.jidiai.cn/ccf_2023/): Ranked fifth
+[CCF Computational Economics Competition 2023](http://www.jidiai.cn/ccf_2023/): Ranked fifth
 
 
 
