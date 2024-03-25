@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You cloud download my CV at [here](../files/CV2.pdf).
+You cloud download my CV at [here](../files/CV.pdf).
