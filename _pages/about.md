@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome to my academic page! 
-        <br />I am going to start my gap year and look for PhD and RA opportunities actively."
+        <br />I am looking for PhD and RA opportunities actively."
 author_profile: true
 redirect_from: 
   - /about/
