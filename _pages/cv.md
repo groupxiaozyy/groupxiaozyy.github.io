@@ -10,3 +10,5 @@ redirect_from:
 {% include base_path %}
 
 You cloud download my CV at [here](../files/CV.pdf).
+
+中文简历请在此[下载](../files/简历.pdf)。
