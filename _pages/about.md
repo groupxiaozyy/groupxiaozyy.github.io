@@ -39,8 +39,6 @@ More publications are on the way.... :horse_racing:
    Jinbo Cai, Mingjun Xiao, Junjie Shao, He Sun, <u>Yu Zhao</u>, Tongxiao Zhang.<br />
 
    IEEE Conference on Parallel and Distributed Systems (ICPADS 2023);
-
-
    </font>
    [here](../files/ICPADS.pdf)
 
