@@ -42,7 +42,7 @@ More publications are on the way.... :horse_racing:
 
    IEEE Conference on Parallel and Distributed Systems (ICPADS 2023);
 
-   [PDF](../files/ICPADS.pdf)
+   [here](../files/CV.pdf)
    </font>
 
 
