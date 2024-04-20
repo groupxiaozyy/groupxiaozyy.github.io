@@ -50,9 +50,7 @@ More publications are on the way.... :horse_racing:
 
 1. Edge-assisted Multi-vehicle Cooperative Perception: an Approach Based on Relative Pose Estimation
 
-   <font face="Times New Roman">
-   
-   <u>Yu Zhao</u>, He Sun, Mingjun Xiao, Jie Wu, Junjie Shao, and Jinbo Cai.<br />
+   <font face="Times New Roman"><u>Yu Zhao</u>, He Sun, Mingjun Xiao, Jie Wu, Junjie Shao, and Jinbo Cai.<br />
 
    IEEE Transactions on Mobile Computing (TMC);
 
