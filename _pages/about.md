@@ -31,6 +31,7 @@ More publications are on the way.... :horse_racing:
 
    IEEE International Conference on Distributed Computing Systems (ICDCS 2024);
 
+   [PDF](../files/ICDCS2024.pdf)
    </font>
 
 2. Video Streaming Caching and Transcoding for Heterogeneous Mobile Users
@@ -41,6 +42,7 @@ More publications are on the way.... :horse_racing:
 
    IEEE Conference on Parallel and Distributed Systems (ICPADS 2023);
 
+   [PDF](../files/ICPADS.pdf)
    </font>
 
 
@@ -54,6 +56,8 @@ More publications are on the way.... :horse_racing:
 
    IEEE Transactions on Mobile Computing (TMC);
 
+   [PDF](../files/TSC.pdf)
+
    </font>
 
 2. Cooperative Traffic Signal Online Control Using Game Theory and Contextual Bandit
@@ -64,6 +68,7 @@ More publications are on the way.... :horse_racing:
    
    IEEE Transactions on Services Computing (TSC);
    
+   [PDF](../files/TMC.pdf)
    </font>
 
 
