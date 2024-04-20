@@ -30,10 +30,8 @@ More publications are on the way.... :horse_racing:
    <u>Yu Zhao</u>, Jinrui Zhou, Mingjun Xiao, Jie Wu, He Sun.<br />
 
    IEEE International Conference on Distributed Computing Systems (ICDCS 2024);
-
-   [PDF](../files/ICDCS2024.pdf)
    </font>
-
+   [PDF](../files/ICDCS2024.pdf)
 2. Video Streaming Caching and Transcoding for Heterogeneous Mobile Users
 
    <font face="Times New Roman">
@@ -42,9 +40,9 @@ More publications are on the way.... :horse_racing:
 
    IEEE Conference on Parallel and Distributed Systems (ICPADS 2023);
 
-   [here](../files/CV.pdf)
-   </font>
 
+   </font>
+   [here](../files/ICPADS.pdf)
 
 **Journal Papers (Under Review)** 
 
@@ -53,11 +51,8 @@ More publications are on the way.... :horse_racing:
    <font face="Times New Roman"><u>Yu Zhao</u>, He Sun, Mingjun Xiao, Jie Wu, Junjie Shao, and Jinbo Cai.<br />
 
    IEEE Transactions on Mobile Computing (TMC);
-
-   [PDF](../files/TSC.pdf)
-
    </font>
-
+   [PDF](../files/TSC.pdf)
 2. Cooperative Traffic Signal Online Control Using Game Theory and Contextual Bandit
 
    <font face="Times New Roman">
@@ -65,10 +60,8 @@ More publications are on the way.... :horse_racing:
    Junjie Shao, <u>Yu Zhao</u>, He Sun, Jinbo Cai, Jie Wu, Mingjun Xiao.<br />
    
    IEEE Transactions on Services Computing (TSC);
-   
-   [PDF](../files/TMC.pdf)
    </font>
-
+   [PDF](../files/TMC.pdf)
 
 
 Competition
