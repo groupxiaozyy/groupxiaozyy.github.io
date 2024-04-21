@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my academic page! 
-        <br />I am looking for PhD and RA opportunities actively."
+title: "Welcome to my academic page! "
 author_profile: true
 redirect_from: 
   - /about/
