@@ -49,7 +49,7 @@ More publications are on the way.... :horse_racing:
 
    IEEE Transactions on Mobile Computing (TMC);
    </font>
-   [PDF](../files/TSC.pdf)
+   [PDF](../files/TMC.pdf)
 2. Cooperative Traffic Signal Online Control Using Game Theory and Contextual Bandit
 
    <font face="Times New Roman">
@@ -58,7 +58,7 @@ More publications are on the way.... :horse_racing:
    
    IEEE Transactions on Services Computing (TSC);
    </font>
-   [PDF](../files/TMC.pdf)
+   [PDF](../files/TSC.pdf)
 
 
 Competition
