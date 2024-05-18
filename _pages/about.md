@@ -41,16 +41,16 @@ More publications are on the way.... :horse_racing:
    </font>
    [PDF](../files/ICPADS2023.pdf)
 
-**Journal Papers (Under Review)** 
+**Journal Papers** 
 
-1. Edge-assisted Multi-vehicle Cooperative Perception: an Approach Based on Relative Pose Estimation
+1. Edge-assisted Multi-vehicle Cooperative Perception: an Approach Based on Relative Pose Estimation (Under Review)
 
    <font face="Times New Roman"><u>Yu Zhao</u>, He Sun, Mingjun Xiao, Jie Wu, Junjie Shao, and Jinbo Cai.<br />
 
-   IEEE Transactions on Mobile Computing (TMC);
+   IEEE Transactions on Mobile Computing (TMC); 
    </font>
    [PDF](../files/TMC.pdf)
-2. Cooperative Traffic Signal Online Control Using Game Theory and Contextual Bandit
+2. Cooperative Traffic Signal Online Control Using Game Theory and Contextual Bandit (Under Review)
 
    <font face="Times New Roman">
 
