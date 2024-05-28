@@ -9,7 +9,7 @@ redirect_from:
 
 BIOGRAPHY
 ======
-I will obtain my master's degree from the School of Computer Science, University of Science and Technology of China (USTC) in June 2024 under the supervision of [Prof. Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/  "the best tutor").  I am also fortunate to work with [Prof. Jie Wu](https://cis.temple.edu/~wu/) from Temple University. Before that, I received my bachelor's degree from Chongqing University (CQU) in 2021. I'm interested in smart city, mobile computing and humanoid robots.                    
+I will obtain my master's degree from the School of Computer Science, University of Science and Technology of China (USTC) in June 2024 under the supervision of [Prof. Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/  "the best tutor").  I am also fortunate to work with [Prof. Jie Wu](https://cis.temple.edu/~wu/)(Fellow of AAAS, and Fellow of IEEE) from Temple University. Before that, I received my bachelor's degree from Chongqing University (CQU) in 2021. I'm interested in smart city, mobile computing and humanoid robots.                    
 
 
 News
