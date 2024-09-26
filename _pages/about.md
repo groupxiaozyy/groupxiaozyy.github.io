@@ -49,6 +49,7 @@ More publications are on the way.... :horse_racing:
    Jinrui Zhou, <u>Yu Zhao</u>, Mingjun Xiao, Sheng Zhang, Jie Wu, Yin Xu.<br />
 
    </font>
+   
 **Journal Papers** 
 
 1. Edge-assisted Multi-vehicle Cooperative Perception: an Approach Based on Relative Pose Estimation (Major Review)
