@@ -9,12 +9,12 @@ redirect_from:
 
 BIOGRAPHY
 ======
-I have obtained my master's degree from the School of Computer Science, University of Science and Technology of China (USTC) in June 2024 under the supervision of [Prof. Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/).  I am also fortunate to work with [Prof. Jie Wu](https://cis.temple.edu/~wu/)(Fellow of AAAS, and Fellow of IEEE) from Temple University. Before that, I received my bachelor's degree from Chongqing University (CQU) in 2021. I'm interested in mobile computing and humanoid robots.                    
+I have obtained my master's degree from the School of Computer Science, University of Science and Technology of China (USTC) in June 2024 under the supervision of [Prof. Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/).  I am also fortunate to work with [Prof. Jie Wu](https://cis.temple.edu/~wu/) (Fellow of AAAS, and Fellow of IEEE) from Temple University. Before that, I received my bachelor's degree from Chongqing University (CQU) in 2021. I'm interested in mobile computing and humanoid robots.                    
 
 
 News
 =====
-One paper has been accepted by ICDCS 2024!
+One paper has been accepted by ICDCS 2024! \\
 One paper has been accepted by ICPADS 2023!
 
 Publications
