@@ -9,12 +9,13 @@ redirect_from:
 
 BIOGRAPHY
 ======
-I will obtain my master's degree from the School of Computer Science, University of Science and Technology of China (USTC) in June 2024 under the supervision of [Prof. Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/  "the best tutor").  I am also fortunate to work with [Prof. Jie Wu](https://cis.temple.edu/~wu/)(Fellow of AAAS, and Fellow of IEEE) from Temple University. Before that, I received my bachelor's degree from Chongqing University (CQU) in 2021. I'm interested in smart city, mobile computing and humanoid robots.                    
+I have obtained my master's degree from the School of Computer Science, University of Science and Technology of China (USTC) in June 2024 under the supervision of [Prof. Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/).  I am also fortunate to work with [Prof. Jie Wu](https://cis.temple.edu/~wu/)(Fellow of AAAS, and Fellow of IEEE) from Temple University. Before that, I received my bachelor's degree from Chongqing University (CQU) in 2021. I'm interested in mobile computing and humanoid robots.                    
 
 
 News
 =====
 One paper has been accepted by ICDCS 2024!
+One paper has been accepted by ICPADS 2023!
 
 Publications
 ======
@@ -30,7 +31,7 @@ More publications are on the way.... :horse_racing:
 
    IEEE International Conference on Distributed Computing Systems (ICDCS 2024);
    </font>
-   [PDF](../files/ICDCS2024.pdf)
+   [Link](https://ieeexplore.ieee.org/document/10630930)
 2. Video Streaming Caching and Transcoding for Heterogeneous Mobile Users
 
    <font face="Times New Roman">
@@ -39,26 +40,32 @@ More publications are on the way.... :horse_racing:
 
    IEEE Conference on Parallel and Distributed Systems (ICPADS 2023);
    </font>
-   [PDF](../files/ICPADS2023.pdf)
+   [Link](https://ieeexplore.ieee.org/document/10476058)
 
+3. Paper about Parallel-Sequential Federated Learning (Submitted to INFOCOM 2025)
+   
+   <font face="Times New Roman">
+
+   Jinrui Zhou, <u>Yu Zhao</u>, Mingjun Xiao, Sheng Zhang, Jie Wu, Yin Xu.<br />
+
+   </font>
 **Journal Papers** 
 
-1. Edge-assisted Multi-vehicle Cooperative Perception: an Approach Based on Relative Pose Estimation (Under Review)
+1. Edge-assisted Multi-vehicle Cooperative Perception: an Approach Based on Relative Pose Estimation (Major Review)
 
    <font face="Times New Roman"><u>Yu Zhao</u>, He Sun, Mingjun Xiao, Jie Wu, Junjie Shao, and Jinbo Cai.<br />
 
    IEEE Transactions on Mobile Computing (TMC); 
    </font>
-   [PDF](../files/TMC.pdf)
-2. Cooperative Traffic Signal Online Control Using Game Theory and Contextual Bandit (Under Review)
+   
+2. Cooperative Traffic Signal Online Control Using Game Theory and Contextual Bandit
 
    <font face="Times New Roman">
 
    Junjie Shao, <u>Yu Zhao</u>, He Sun, Jinbo Cai, Jie Wu, Mingjun Xiao.<br />
    
-   IEEE Transactions on Services Computing (TSC);
    </font>
-   [PDF](../files/TSC.pdf)
+   [PDF](../files/Cooperative_Traffic_Signal_Online_Control.pdf)
 
 
 Competition
