@@ -52,7 +52,7 @@ More publications are on the way.... :horse_racing:
    
 **Journal Papers** 
 
-1. Edge-assisted Multi-vehicle Cooperative Perception: an Approach Based on Relative Pose Estimation (Major Review)
+1. Edge-assisted Multi-vehicle Cooperative Perception: an Approach Based on Relative Pose Estimation (Have Received Major Revision Decision)
 
    <font face="Times New Roman"><u>Yu Zhao</u>, He Sun, Mingjun Xiao, Jie Wu, Junjie Shao, and Jinbo Cai.<br />
 
