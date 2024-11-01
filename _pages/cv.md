@@ -11,4 +11,3 @@ redirect_from:
 
 You could download my CV at [here](../files/CV_ZY.pdf).
 
-中文简历请在此[下载](../files/简历1.pdf)。

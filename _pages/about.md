@@ -32,7 +32,16 @@ More publications are on the way.... :horse_racing:
    IEEE International Conference on Distributed Computing Systems (ICDCS 2024);
    </font>
    [Link](https://ieeexplore.ieee.org/document/10630930)
-2. Video Streaming Caching and Transcoding for Heterogeneous Mobile Users
+   
+2. Paper about Parallel-Sequential Federated Learning (Submitted to INFOCOM 2025)
+   
+   <font face="Times New Roman">
+
+   Jinrui Zhou, <u>Yu Zhao</u>, Mingjun Xiao, Sheng Zhang, Jie Wu, Yin Xu.<br />
+
+   </font>
+
+3. Video Streaming Caching and Transcoding for Heterogeneous Mobile Users
 
    <font face="Times New Roman">
 
@@ -42,13 +51,7 @@ More publications are on the way.... :horse_racing:
    </font>
    [Link](https://ieeexplore.ieee.org/document/10476058)
 
-3. Paper about Parallel-Sequential Federated Learning (Submitted to INFOCOM 2025)
-   
-   <font face="Times New Roman">
 
-   Jinrui Zhou, <u>Yu Zhao</u>, Mingjun Xiao, Sheng Zhang, Jie Wu, Yin Xu.<br />
-
-   </font>
    
 **Journal Papers** 
 
@@ -65,6 +68,7 @@ More publications are on the way.... :horse_racing:
 
    Junjie Shao, <u>Yu Zhao</u>, He Sun, Jinbo Cai, Jie Wu, Mingjun Xiao.<br />
    
+   Preprint.
    </font>
    [PDF](../files/Cooperative_Traffic_Signal_Online_Control.pdf)
 
@@ -83,5 +87,3 @@ Competition
 For more info
 ------
 More detailed information is presented in the CV.
-
-中文版简历可以在CV界面下载。
