@@ -14,6 +14,7 @@ I have obtained my master's degree from the School of Computer Science, Universi
 
 News
 =====
+One paper has been accepted by INFOCOM 2025! \\
 One paper has been accepted by ICDCS 2024! \\
 One paper has been accepted by ICPADS 2023!
 
@@ -33,12 +34,12 @@ More publications are on the way.... :horse_racing:
    </font>
    [Link](https://ieeexplore.ieee.org/document/10630930)
    
-2. Paper about Parallel-Sequential Federated Learning (Submitted to INFOCOM 2025)
+2. PSFL: Parallel-Sequential Federated Learning with Convergence Guarantees
    
    <font face="Times New Roman">
 
    Jinrui Zhou, <u>Yu Zhao</u>, Mingjun Xiao, Sheng Zhang, Jie Wu, Yin Xu.<br />
-
+   IEEE International Conference on Computer Communications (INFOCOM 2025);
    </font>
 
 3. Video Streaming Caching and Transcoding for Heterogeneous Mobile Users
